@@ -1,0 +1,8 @@
+{
+  "name": "Carla_blog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "8f685c77"
+}
